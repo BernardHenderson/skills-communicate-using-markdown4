@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+-[] Cut the grass
+-[] Clean gutters
+-[] Do homework
