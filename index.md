@@ -5,6 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
--[ ] Cut the grass
--[ ] Clean gutters
--[ ] Do homework
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
